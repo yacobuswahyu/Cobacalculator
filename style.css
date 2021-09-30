@@ -1,0 +1,42 @@
+.tabel{
+    background-color: rgb(26, 28, 44);
+    height: 320px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.form-group{
+    background-color: gray;
+    padding: 20px;
+}
+
+.chk{
+    padding-top: -100px;
+}
+
+.btn-group .tmbl{
+    background-color: rgb(255, 187, 0);
+    color: #000000;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.teks{
+    padding: 10px;
+    color: aliceblue;
+}
+
+.hasil{
+    padding: 10px;
+}
+
+.copy{
+    color: #FFFF;
+}
+
